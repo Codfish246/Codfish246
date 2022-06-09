@@ -10,6 +10,7 @@ I know, to varying levels, a variety of languages (some of which I may have forg
 📧 [codfish@stuff.solutions](mailto:codfish@stuff.solutions)  
 💬 [Codfish246#0075](https://discordapp.com/users/102341036403068928)  
 🐦 [@Codfish246](https://twitter.com/codfish246)  
+🐘 [@codfish246@tech.lgbt](https://tech.lgbt/@codfish246)
 
 <!--
 **Codfish246/Codfish246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
