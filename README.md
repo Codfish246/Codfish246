@@ -1,11 +1,11 @@
-### 👋 Hey there.
+### 👋 Hey!
 
 I do stuff with tech, servers, and code (sometimes), and put it here (occasionally). I mainly work with Python, HTML/CSS, and JS.  
 
 I know, to varying levels, a variety of languages (some of which I may have forgotten to list) including: C#, Java, PHP, SQL, VB.net, and Lua.  
 
 ---
-**If you would like to contact me**, feel free to use any of the below methods.  
+**If you'd like to contact me**, feel free to use any of the below methods.  
 
 📧 [codfish@stuff.solutions](mailto:codfish@stuff.solutions)  
 💬 [Codfish246#0075](https://discordapp.com/users/102341036403068928)  
