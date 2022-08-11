@@ -1,6 +1,6 @@
 ### 👋 Hey!
 
-I do stuff with tech, servers, and code (sometimes), and put it here (occasionally). I mainly work with Python, HTML/CSS, and JS.  
+I do stuff with tech, servers, and code (sometimes), then put it here (occasionally). I mainly work with Python, HTML/CSS, and JS.  
 
 I know, to varying levels, a variety of languages (some of which I may have forgotten to list) including: C#, Java, PHP, SQL, VB.net, and Lua.  
 
