@@ -4,6 +4,8 @@ I do stuff with tech, servers, and code (sometimes), then put it here (occasiona
 
 I know, to varying levels, a variety of languages (some of which I may have forgotten to list) including: C#, Java, PHP, SQL, VB.net, and Lua.  
 
+<img src="https://github-readme-stats.vercel.app/api?username=Codfish246&hide_border=true&theme=radical&show_icons=true&count_private=true" style="height: auto; width: auto">
+
 ---
 **If you'd like to contact me**, feel free to use any of the below methods.  
 
