@@ -1,6 +1,7 @@
 ### 👋😸 Hey!
 
-Currently a cybersecurity student and hobbyist, I do stuff with tech, servers, and code (sometimes), then put it here (occasionally) even though it is very likely bad :) I mainly work with Python, HTML/CSS, and JS.  
+Currently a cybersecurity student and hobbyist, I do stuff with tech, servers, and code (sometimes), then put it here (occasionally) even though it's probably bad :)  
+I mainly work with Python, HTML/CSS, and JS.  
 
 I know, to varying levels, a variety of languages (some of which I may have forgotten to list) including: Python, C#, Java, Javascript, PHP, SQL, VB.net, and Lua.  
 
